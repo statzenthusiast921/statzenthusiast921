@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Jon! 👋
 
 
 - 🔭 I’m currently working on an NLP project analyzing the words spoken in The Office.
